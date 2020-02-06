@@ -1,6 +1,5 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
 
-# react-native-qrcode
+# react-native-qrcode with WebView and Canvas fix
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), not only support English.
 
 ## Installation
